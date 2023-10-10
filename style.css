@@ -3,6 +3,7 @@ body {
     text-align: center;
     color: white;
     font-size: x-large;
+    
 }
 
 h1 {
@@ -11,8 +12,12 @@ h1 {
 }
 
 div {
-    padding: 0.5%;
-    
+    padding: 1%;
+    display:inline-block;
+}
+
+#grand-total {
+    display: block;
 }
 
 
